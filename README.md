@@ -6,7 +6,8 @@ Configuração do Projeto
 
 Clonar o Repositório
 Clone o repositório para sua máquina local usando o Git: bash git clone https://github.com/JoaoNeto132/Trabalho-Jef-State.git
-Configurar a String de Conexão Abra o arquivo appsettings.json e configure a string de conexão para o PostgreSQL em ConnectionStrings.DefaultConnection. Substitua as partes Host, Database, Username e Password com as informações do seu servidor PostgreSQL:
+Configurar a String de Conexão Abra o arquivo appsettings.json e configure a string de conexão para o PostgreSQL em ConnectionStrings.DefaultConnection. 
+Substitua as partes Host, Database, Username e Password com as informações do seu servidor PostgreSQL:
 json { "ConnectionStrings": { "DefaultConnection": "Host=localhost;Database=TaskDb;Username=seu-usuario;Password=sua-senha" } }
 
 ### 📋 Pré-requisitos
@@ -22,4 +23,4 @@ Swashbuckle.AspNetCore Versão mais atual
 
 ## ✒️ Autor
 
-* **João Pereira Neto** - [João Pereira Neto](https://github.com/JoaoNeto132)
+* **Estudante** - [João Pereira Neto](https://github.com/JoaoNeto132)
